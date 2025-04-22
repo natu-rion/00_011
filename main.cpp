@@ -19,6 +19,12 @@ LRESULT CALLBACK WindowProc(HWND hwnd, UINT msg,
 
 }
 
+
+
+
+
+
+
 //
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	WNDCLASS wc{};
